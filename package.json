@@ -1,0 +1,9 @@
+{
+  "name": "node-rabbitMQ",
+  "version": "1.0.0",
+  "description": "learn basic rabbitMQ with nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/PanupongDeve/nodejs-rabbitMQ.git",
+  "author": "Panupong Chamsomboon",
+  "license": "MIT"
+}
